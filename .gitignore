@@ -1,0 +1,12 @@
+# Secrets
+kalshi_private.key
+*.pem
+*.key
+
+# Venv
+.venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
